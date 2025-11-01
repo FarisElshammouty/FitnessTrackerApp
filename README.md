@@ -37,7 +37,9 @@ README.md
 🧩 Example Preview
 
 After logging multiple sessions, you can visualize your performance easily:
-Weight over time — Leg Extension
+
+<img width="897" height="666" alt="image" src="https://github.com/user-attachments/assets/e1bf6358-bedc-45be-9b97-05bf4aca959f" />
+
 📉 Watch how your lifts improve over time!
 
 🧑‍💻 Author
